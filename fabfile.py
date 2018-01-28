@@ -11,7 +11,7 @@ env.no_keys = True
 env.use_ssh_config = True
 env.use_shell = False
 
-@task(alias="showVersion")
+# @task(alias="showVersion")
 def showVersion():
     """
     This will save the current running configuration as the startup 
