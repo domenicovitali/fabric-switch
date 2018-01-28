@@ -25,7 +25,6 @@ def showVersion():
     try:
         #open_shell("terminal lenght 0" )
         #open_shell("show version" )
-        # todo: insert password
         open_shell("enable\n\nterminal lenght 0\nshow version\n \nexit\n" )
         # open_shell("exit\n" )
         # open_shell("enable\nP1ngazz0\nterminal lenght 0\nshow version\n exit\n" )
