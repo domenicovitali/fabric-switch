@@ -6,7 +6,7 @@ from fabric.contrib.console import confirm
 from fabric.colors import red, cyan, yellow, green
 
 env.user = "admin"
-user.password = "*****"
+env.password = "*****"
 env.no_keys = True
 env.use_ssh_config = True
 env.use_shell = False
